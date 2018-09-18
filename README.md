@@ -51,4 +51,4 @@ If you use ReactionMiner in your work, please cite
 
 This work was supported by the [Indian Institute of Technology Madras](http://www.iitm.ac.in/) grant CSE/14-15/5643/NFSC/SAYN to Sayan Ranu and the [Initiative for Biological Systems Engineering (IBSE)](https://web.iitm.ac.in/ibse) at IIT Madras.
 
-<img title="IBSE logo" src="https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/blob/master/images/IBSE_logo.png" height="200" width="200"><img title="RBC-DSAI logo" src="https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/blob/master/images/logo.jpg" height="200" width="351">
+<a href="https://ibse.iitm.ac.in/"><img title="IBSE logo" src="https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/blob/master/images/IBSE_logo.png" height="200" width="200"></a> <a href="https://rbcdsai.iitm.ac.in/"><img title="RBC-DSAI logo" src="https://github.com/RBC-DSAI-IITM/rbc-dsai-iitm.github.io/blob/master/images/logo.jpg" height="200" width="351"></a>
